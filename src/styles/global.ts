@@ -10,4 +10,11 @@ export const GlobalStyles = createGlobalStyle`
     max-height: 100vh;
     background-color: #F3F2EF;
   }
+
+  button {
+    cursor: pointer;
+    border: none;
+    background-color: transparent;
+    
+  }
 `;
